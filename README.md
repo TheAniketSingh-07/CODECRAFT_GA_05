@@ -42,6 +42,8 @@ Install Dependencies
 
 pip install -q tensorflow matplotlib
 
+[Open In Colab](https://colab.research.google.com/drive/1ZJP1XCklfMbzQeffKB-Hj3t5J7fJNmUJ?usp=sharing)
+
 
 🧰 Tools & Technologies Used
 🧠 TensorFlow – For neural network processing and optimization
