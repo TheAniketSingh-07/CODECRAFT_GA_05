@@ -1,7 +1,6 @@
 # CODECRAFT_GA_05
-Neural Style Transfer Task completed ✅
 
-# 🎨 Neural Style Transfer using TensorFlow – CodeCraft Internship Task
+# 🎨 Neural Style Transfer using TensorFlow 
 
 > *"Combining the soul of one image with the structure of another — that’s the power of Generative AI."*
 
@@ -16,8 +15,7 @@ This project focuses on applying a pre-trained deep learning model (**VGG19**) t
 ## 🖼️ Sample Result
 
 <p align="center">
-  <img src="![Uploading Screenshot 2025-07-06 134328.png…]()
-" width="30%"/> 
+  <img src=""C:\Users\Aniket Singh\OneDrive\Desktop\sample stylized imgs\example.png"" width="30%"/> 
 </p>
 
 ---
