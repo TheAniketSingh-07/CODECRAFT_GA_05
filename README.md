@@ -15,7 +15,7 @@ This project focuses on applying a pre-trained deep learning model (**VGG19**) t
 ## 🖼️ Sample Result
 
 <p align="center">
-  <img src=""C:\Users\Aniket Singh\OneDrive\Desktop\sample stylized imgs\example.png"" width="30%"/> 
+  <img src="example.png" width="30%"/> 
 </p>
 
 ---
