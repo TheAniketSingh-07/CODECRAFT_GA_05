@@ -113,8 +113,7 @@ Big thanks to CodeCraft for the incredible opportunity to explore Generative AI 
 Author - Aniket Singh
 
 🤝 Connect with Me
-📧 aniket@example.com
-🔗 LinkedIn
-🧠 Portfolio
+
+
 
 
